@@ -1,0 +1,18 @@
+div{
+    width: 30%;
+    display: block;
+    padding: 30px;
+    border-color: solid aquamarine;
+    background-color: rgb(221, 191, 249);
+    margin: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    border-radius: 8px;
+    padding: %;
+}
+
+label{
+    display: flex;
+}

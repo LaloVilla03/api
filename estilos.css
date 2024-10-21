@@ -1,0 +1,46 @@
+div{
+    width: 30%;
+    display: block;
+    padding: 10px;
+    border-color: solid aquamarine;
+    background-color: rgb(221, 191, 249);
+    margin: 8px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+a{
+    color: black;
+}
+form{
+    padding: 30px 20px;
+    background-color: #c6c6c6;
+    margin: calc(25% + 100px);
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    width: calc(100% - 20px);
+    padding: 9px;
+    margin: auto;
+    margin-top: 12px;
+    font-size: 16px;
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+
+}
+
+button{
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(19, 244, 7, 0.307);
+}
